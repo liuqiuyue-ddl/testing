@@ -1,0 +1,6 @@
+1, 修改端口路径
+   vim apache-tomcat-8082/conf/server.xml
+2，修改tittle
+   vim /usr/java/apache-tomcat-8082/webapps/ROOT/index.jsp
+3，nginx文件路径
+   /usr/local/nginx/conf/sbin
